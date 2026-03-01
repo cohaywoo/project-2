@@ -1,0 +1,9 @@
+[2026-02-27 18:07:44.318] WarpDockTilePlugin initialized
+[2026-02-27 18:07:44.320] setDockTile called with tile: valid
+[2026-02-27 18:07:44.321] Main app bundleId: dev.warp.Warp-Stable
+[2026-02-27 18:07:44.324] Host defaults: <NSUserDefaults: 0x7fb0a5c05a10>
+[2026-02-27 18:07:44.325] updateAppIcon called
+[2026-02-27 18:07:44.325] Plugin Bundle ID: dev.warp.Warp-Stable
+[2026-02-27 18:07:44.325] Icon file name: warp_2
+[2026-02-27 18:07:44.326] Image path: /Applications/Warp.app/Contents/PlugIns/WarpDockTilePlugin.docktileplugin/Contents/Resources/warp_2.png
+[2026-02-27 18:07:44.454] Dock tile updated with icon: warp_2
